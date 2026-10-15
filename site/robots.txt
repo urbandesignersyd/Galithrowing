@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gartrelldesign.com/sitemap.xml
